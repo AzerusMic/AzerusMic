@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align=center>
+  <img src="https://github.com/user-attachments/assets/3f6763b9-6bc3-43be-afd9-406a7b85b2e3" />
+</p>
+<p align=center>
+  <code style="color : orange">alexi / 07 / she her</code> <code style="color : orange">(> ^  c ^)></code> 
+</p>
+<p align=center>
 
-<!--
-**AzerusMic/AzerusMic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align=center>
+  <a href=https://moesdoby.atabook.org/"target="_blank">ATA</a> <a href=https://x.com/yetiswifee"target="_blank">X</a> <a href=https://www.instagram.com/rekxxc/"target="_blank">IG</a>
+</p>
+<p align=center>
+  
