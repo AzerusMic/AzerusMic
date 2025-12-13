@@ -8,7 +8,7 @@
 
 </p>
 <p align=center>
-  <a href=https://moesdoby.atabook.org/"target="_blank">ATA</a> <a href=https://x.com/yetiswifee"target="_blank">X</a> <a href=https://www.instagram.com/rekxxc/"target="_blank">IG</a>
+  <a href=https://moesdoby.atabook.org/"target="_blank">sign my ata</a> <a href=https://x.com/yetiswifee"target="_blank">x</a> <a href=https://www.instagram.com/rekxxc/"target="_blank">insta</a>
 </p>
 <p align=center>
   
