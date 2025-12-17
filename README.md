@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://github.com/user-attachments/assets/3f6763b9-6bc3-43be-afd9-406a7b85b2e3" />
+  <img src="https://github.com/user-attachments/assets/92caf375-6b35-4b79-9b84-14a1a66a0a68"/>
 </p>
 <p align=center>
   <code style="color : orange">alexi / 07 / she her</code> <code style="color : orange">(> ^  c ^)></code> 
