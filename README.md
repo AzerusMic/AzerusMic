@@ -1,14 +1,14 @@
 <p align=center>
-  <img src="https://github.com/user-attachments/assets/bd5d04d7-4175-4c5e-a779-3ea2fc3e5dea"/>
+  <img src="https://github.com/user-attachments/assets/33cdfaff-4c75-4ac4-b501-fc170cc6c9fa"/>
 </p>
 <p align=center>
-  <code style="color : orange">alexi / she her / comfch = armin </code> <code style="color : orange">( ͡° ͜ʖ ͡°)</code> 
+  <code style="color : orange">07 / she her / nomad </code> <code style="color : orange">0323</code> 
 </p>
 <p align=center>
 
 </p>
 <p align=center>
-  <a href=https://x.com/yetiswifee?s=21/"target="_blank">twit</a> <a href=https://x.com/yetiswifee"target="_blank">x</a> <a href=https://www.instagram.com/rekxxc/"target="_blank">insta</a>
+  
 </p>
 <p align=center>
-  
+  <img src="https://github.com/user-attachments/assets/5f0bd3ca-b84c-4e23-af2c-b47c761efe31"/>
