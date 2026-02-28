@@ -14,3 +14,9 @@
 <p align=center>
   <img src="https://github.com/user-attachments/assets/5f0bd3ca-b84c-4e23-af2c-b47c761efe31" data-canonical-
     src="https://github.com/user-attachments/assets/5f0bd3ca-b84c-4e23-af2c-b47c761efe31" width=500 height=700 />
+
+</p>
+<p alignment=center>
+   <img
+     src="https://komarev.com/ghpvc/?username=Alexxx&label=zzz&color=ffffff"
+       width="30" alt="views">
