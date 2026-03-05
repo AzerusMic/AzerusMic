@@ -3,7 +3,7 @@
     src="https://github.com/user-attachments/assets/33cdfaff-4c75-4ac4-b501-fc170cc6c9fa/" width=500 height=700 />
 </p>
 <p align=center>
-  <code style="color : orange">C'H! 0323 | "Because of you, I have a reason to go on living today"  </code> <code style="color : orange">0323</code> 
+  <code style="color : orange">C'H! | "Because of you, I have a reason to go on living today"  </code> <code style="color : orange">0323</code> 
 </p>
 <p align=center>
 
