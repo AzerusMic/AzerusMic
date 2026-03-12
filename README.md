@@ -1,9 +1,9 @@
 <p align=center>
   <img src="https://github.com/user-attachments/assets/8dfaf269-0f40-4bb0-a874-898caf48ed53" data-canonical-
-    src="https://github.com/user-attachments/assets/8dfaf269-0f40-4bb0-a874-898caf48ed53" width=470 height=500 />
+    src="https://github.com/user-attachments/assets/8dfaf269-0f40-4bb0-a874-898caf48ed53" width=200 height=500 />
 </p>
 <p align=center>
-  <code style="color : orange"><sub></sub>hi nerds! w2i #alwaysdozingoff</sub></sub>  </code>
+  <code style="color : orange"><sub></sub>hi nerds! always afk so w2i #ihavealifeok</sub></sub>  </code>
 </p>
 <p align=center>
 <sub></sub>I keep redesigning so this is all I could do for neow ( = ⩊ = ) <sub></sub>
