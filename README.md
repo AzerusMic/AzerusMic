@@ -14,5 +14,5 @@
 </p>
 <p align=center>
    <img
-     src="https://komarev.com/ghpvc/?username=Alexxx&label=ಡ‸ಡ&color=a9a9a9"
+     src="https://komarev.com/ghpvc/?username=Alexxx&label=wowcalmdown&color=a9a9a9"
        width="50" alt="views">
