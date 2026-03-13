@@ -7,7 +7,9 @@
 </p>
 <p align=center>
 <sub></sub>I keep redesigning so this is all I can do for neow ( = ⩊ = ) <sub></sub>
-
+</p>
+<p align=center>
+<img src="https://github.com/user-attachments/assets/057df576-b390-44e9-a543-538043a5a5cb"
 
 </p>
 <p align=center>
