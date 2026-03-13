@@ -6,7 +6,7 @@
   <code style="color : orange"><sub></sub>hi nerds! always afk so w2i #ihavealifeok</sub></sub></code>
 </p>
 <p align=center>
-<sub></sub>I keep redesigning so this is all I could do for neow ( = ⩊ = ) <sub></sub>
+<sub></sub>I keep redesigning so this is all I can do for neow ( = ⩊ = ) <sub></sub>
 
 
 </p>
