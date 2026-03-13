@@ -9,8 +9,8 @@
 <sub></sub>I keep redesigning so this is all I can do for neow ( = ⩊ = ) <sub></sub>
 </p>
 <p align=center>
-<img src="https://github.com/user-attachments/assets/057df576-b390-44e9-a543-538043a5a5cb"
-    src="https://github.com/user-attachments/assets/057df576-b390-44e9-a543-538043a5a5cb" width=300 height=500 />
+<img src="https://github.com/user-attachments/assets/2bcc5bd4-f6ec-4fb0-8eef-3f2ce8f3ed93"
+    src="https://github.com/user-attachments/assets/2bcc5bd4-f6ec-4fb0-8eef-3f2ce8f3ed93" width=300 height=500 />
 </p>
 <p align=center>
    <img
