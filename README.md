@@ -1,6 +1,6 @@
 <p align=center>
-  <img src="https://github.com/user-attachments/assets/d6ac11d9-572a-497a-b02b-e1de42d0ec82" data-canonical-
-    src="https://github.com/user-attachments/assets/d6ac11d9-572a-497a-b02b-e1de42d0ec82" width=450 height=950 />
+  <img src="https://github.com/user-attachments/assets/fde12b56-1ac2-434f-b575-b79862b1f535" data-canonical-
+    src="https://github.com/user-attachments/assets/fde12b56-1ac2-434f-b575-b79862b1f535" width=450 height=950 />
 </p>
 <p align=center>
   <code style="color : orange"><sub></sub>hi nerds! always afk so w2i #ihavealifeok</sub></sub></code>
