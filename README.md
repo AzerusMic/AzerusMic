@@ -1,16 +1,15 @@
 <p align=center>
-  <img src="https://github.com/user-attachments/assets/8dfaf269-0f40-4bb0-a874-898caf48ed53" data-canonical-
-    src="https://github.com/user-attachments/assets/8dfaf269-0f40-4bb0-a874-898caf48ed53" width=200 height=500 />
+  <img src="https://github.com/user-attachments/assets/d6ac11d9-572a-497a-b02b-e1de42d0ec82" data-canonical-
+    src="https://github.com/user-attachments/assets/d6ac11d9-572a-497a-b02b-e1de42d0ec82" width=450 height=950 />
 </p>
 <p align=center>
   <code style="color : orange"><sub></sub>hi nerds! always afk so w2i #ihavealifeok</sub></sub></code>
 </p>
 <p align=center>
-<sub></sub>I keep redesigning so this is all I can do for neow ( = ⩊ = ) <sub></sub>
+<sub></sub>pardon the lazy doodle ibaw . . . YES THIS IS WOTAKOI<sub></sub>
 </p>
 <p align=center>
-<img src="https://github.com/user-attachments/assets/2bcc5bd4-f6ec-4fb0-8eef-3f2ce8f3ed93"
-    src="https://github.com/user-attachments/assets/2bcc5bd4-f6ec-4fb0-8eef-3f2ce8f3ed93" width=300 height=500 />
+  
 </p>
 <p align=center>
    <img
