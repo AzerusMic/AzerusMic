@@ -6,7 +6,7 @@
   <code style="color : orange"><sub></sub>hi nerds! always afk so w2i #ihavealifeok</sub></sub></code>
 </p>
 <p align=center>
-<sub></sub>pardon the lazy doodle ibaw . . . YES THIS IS WOTAKOI<sub></sub>
+<sub></sub>excuse the lazy doodle ibaw . . . YES THIS IS WOTAKOI<sub></sub>
 </p>
 <p align=center>
   
