@@ -1,16 +1,9 @@
+
 <p align=center>
-  <img src="https://github.com/user-attachments/assets/fde12b56-1ac2-434f-b575-b79862b1f535" data-canonical-
-    src="https://github.com/user-attachments/assets/fde12b56-1ac2-434f-b575-b79862b1f535" width=300 height=850 />
-</p>
+
 <p align=center>
-  <code style="color : orange"><sub></sub>hi nerds! always afk so w2i #ihavealifeok</sub></sub></code>
-</p>
-<p align=center>
-<sub></sub>excuse the lazy doodle . . . YES THIS IS WOTAKOI<sub></sub>
-</p>
-<p align=center>
-  <img src="https://github.com/user-attachments/assets/f092c1d4-000c-42ca-b9d8-5a3441ebd007" data-canonical-
-    src="https://github.com/user-attachments/assets/f092c1d4-000c-42ca-b9d8-5a3441ebd007" width=300 height=800
+<img src="https://github.com/user-attachments/assets/6fe3cf82-2c59-40d2-88d4-3ee3bf1a6173" data-canonical-
+  src="https://github.com/user-attachments/assets/6fe3cf82-2c59-40d2-88d4-3ee3bf1a6173" width=500 height=1000
 </p>
 <p align=center>
    <img
