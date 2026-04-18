@@ -4,7 +4,7 @@
        width="90" alt="views">
 <p align=center>
 <img src="https://github.com/user-attachments/assets/56d92922-00e2-40fc-909f-364ae5b23bcb" data-canonical-
-  src="https://github.com/user-attachments/assets/56d92922-00e2-40fc-909f-364ae5b23bcb" width=500 height=500
+  src="https://github.com/user-attachments/assets/56d92922-00e2-40fc-909f-364ae5b23bcb" width=500 height=300
 </p>
 
 <p align="center">
