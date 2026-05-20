@@ -3,8 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=Alexxx&label=BLEAAAT&color=621c00"
        width="90" alt="views">
 <p align=center>
-<img src="https://github.com/user-attachments/assets/30e544f6-43ca-411b-a488-a3dc5b0307a8" data-canonical-
-  src="https://github.com/user-attachments/assets/30e544f6-43ca-411b-a488-a3dc5b0307a8" width=500 height=300
+<img src="https://github.com/user-attachments/assets/31f1f6d8-d6f4-4f20-b820-ebfa5789b4b6" data-canonical-
+  src="https://github.com/user-attachments/assets/31f1f6d8-d6f4-4f20-b820-ebfa5789b4b6" width=500 height=300
 </p>
 
 ##
