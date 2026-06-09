@@ -2,12 +2,9 @@
 <p align=center>
 <EM>HEEEY THEEEREEE!!</EM>
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=neighhhXD&color=8d8c83"
+  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=bleaaaat&color=8d8c83"
        width="100" alt="views">
 </p>
-
-##
-
 <p align=center>
 <sub><sup><em>I'm Alexi and here's a tad info about me . . .</em>
 <p align=center>
@@ -34,5 +31,3 @@ src="https://github.com/user-attachments/assets/4f6a5fac-6da4-4b8a-9a4c-1bf48257
   </p>
   <p align=center>
 <sub><sup><em>is always afk so preferably w2i and iwec . . . okur bye 三三 ᕕ( ᐛ )ᕗ</em>
-
-##
