@@ -12,7 +12,7 @@
 </p>
 <p align=center>
 <img src="https://github.com/user-attachments/assets/8f4f1941-1ffb-439e-84ae-f1becd416845" data-canonical-
-src="https://github.com/user-attachments/assets/8f4f1941-1ffb-439e-84ae-f1becd416845" width=270
+src="https://github.com/user-attachments/assets/8f4f1941-1ffb-439e-84ae-f1becd416845" width=330
   </p>
 <p align=center>
 <sub><sup><em>mostly with friends, bf and me myself alone (I'm not lonely, i love MPS)</em>
