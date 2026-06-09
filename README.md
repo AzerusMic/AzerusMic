@@ -2,11 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=Alexxx&label=neighhhXD&color=8d8c83"
        width="100" alt="views">
 <p align=center>
+<sub><sup><em>HEY THEEEEEREEE!!! I'm Alexi and here's a tad info about me . . .</em>
+<p align=center>
  <img src="https://github.com/user-attachments/assets/df3941c0-db08-464b-90a1-800da7cdaee7" data-canonical- 
  src="https://github.com/user-attachments/assets/df3941c0-db08-464b-90a1-800da7cdaee7" width=250
    </p>
 <p align=center>
-<sub><sup><em>HEY!!!! I'm Alexi and here's a tad info about me . . .</em>
+<sub><sup><em>loves wotakoi, lost in starlight, IWTETLG, LTAP and AOT</em>
 <p align=center>
 <sub><sup><em>is an artist, likes movies, vlogs and jamming to music</em>
 </p>
