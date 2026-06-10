@@ -21,7 +21,7 @@
 src="https://github.com/user-attachments/assets/8f4f1941-1ffb-439e-84ae-f1becd416845" width=330
   </p>
 <p align=center>
-<sub><sup><em>barely cares for anything in the game except enjoying and making friends</em>
+<sub><sup><em>could care less about the game except enjoying and making friends</em>
 </p>
 <p align=center>
 <sub><sup><em>mostly with friends, bf and me myself alone (I'm not lonely, i love MPS) </em>
