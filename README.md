@@ -9,5 +9,5 @@
 
 </p>
 <p align=center>
-- 2819 Lonnell Williams
+<sub><sup>- 2819 Lonnell Williams</sup></sub>
 
