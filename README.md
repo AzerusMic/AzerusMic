@@ -3,7 +3,7 @@
        width="90" alt="views">
 <p align=center>
   " Blessed are the people who can survive the awkward pause, the confused faces, 
-  the questions on why we don't do that and why we don't say that and why doesn't that happen every month from the crowd and still say we love <em>His</em> presence too much
+  the questions on why we don't do that,  why we don't say that and why doesn't that happen every month from the crowd and still say we love <em>His</em> presence too much
   to carry it our own way. Because a humble person can save what pride would've destroyed. "
 
 
