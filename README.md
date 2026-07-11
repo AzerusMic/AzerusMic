@@ -7,5 +7,5 @@
 
 </p>
 <p align=center>
-<sub><sup>How I imagine yall react after I change my readme constantly in a week</sup></sub>
+<sub><sup>How I imagine yall react after I constantly change my readme in a week</sup></sub>
 
