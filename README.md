@@ -1,11 +1,12 @@
-<p align=center>
-  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=bleaaaat&color=8d8c83"
-       width="90" alt="views">
-<p align=center>
-  <img src="https://github.com/user-attachments/assets/83124af8-8767-42bd-ab59-3cea78bd3950" data-canonical
-
+<p align=left>
+  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=thegoats&color=515151"
+       width="100" alt="views">
+<p align=left>
+  <img src="https://github.com/user-attachments/assets/bcdf44b2-ca73-4c77-b11d-aa9da6ea115b" data-canonical
+src=“https://github.com/user-attachments/assets/bcdf44b2-ca73-4c77-b11d-aa9da6ea115b” width=200
 
 </p>
-<p align=center>
-<sub><sup>How I imagine yall react after I constantly change my readme in a week</sup></sub>
+<p align=left>
+<sub><sup>My oh my, another passerby ~</sup></sub>
 
+<sub><sup>Is mostly afk so preferably w2i and iwec 🩶. She barely take a stroll and rots in the same spots but still touching grass, thank goodness.‎‎Rarely joins because of repeated updates and boredom except spending time building my own world with my other half, of COURSE she would be in for such silliness! (shiverswivel) </sup></sub>
