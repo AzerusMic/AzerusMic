@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://guns.lol/moesdoby">
-    <img src="https://github.com/user-attachments/assets/a11ee9d4-f716-428a-8ce0-f010d8385d76" alt="Alt Text" width="318" height="222">
+    <img src="https://github.com/user-attachments/assets/a11ee9d4-f716-428a-8ce0-f010d8385d76" alt="Alt Text" width="518" height="322">
   </a>
 </p>
