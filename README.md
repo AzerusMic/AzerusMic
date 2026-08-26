@@ -2,12 +2,12 @@
 
 </p>
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=beloved&color=cb499e"
+  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=beloved&color=69a4a4"
        width="90" alt="views">
 
 
 <p align="center">
   <a href="https://guns.lol/moesdoby">
-    <img src="https://github.com/user-attachments/assets/a11ee9d4-f716-428a-8ce0-f010d8385d76" alt="Alt Text" width="518" height="322">
+    <img src="https://github.com/user-attachments/assets/0c5d515c-d8b1-4273-ac3e-bf96c9aa6979" alt="Alt Text" width="418" height="322">
   </a>
 </p>
