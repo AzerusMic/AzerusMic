@@ -2,8 +2,12 @@
 
 </p>
 <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=themhorses&color=53524f"
+  <img src="https://komarev.com/ghpvc/?username=Alexxx&label=themhorses&color=c8c8c8"
        width="100" alt="views">
+
+<p align=center> 
+<img width="375" alt="Image" src="https://github.com/user-attachments/assets/16ae74e8-f1d1-4dc9-ad8d-12079e8ec068" />
+
 
 <p align=center><details>
 
