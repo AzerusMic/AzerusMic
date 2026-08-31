@@ -21,5 +21,6 @@
 
 <p align=center><sub>I madly love drawing semi-realism and I enjoy listening to Lizzy Mcalpine, Madison Beer, Olivia Dean etc. depends on the mood 🤷🏻‍♀️ I like discovering small artists and bands too, like Ryael, Jerumi, PRYVT, Brandon, Khamari and Christian Kuria.</sup>
 
-<p align=center><sub>Lastly, I always hop on the game just to make skins for my own satisfaction and spend time with my beloved. I don’t mind interacting but do keep in mind the chances of me replying are very low at times. I tend to join and leave the phone to do my thing. I constantly check the phone tho so I guess that’s fine hehehhehehheheh..</sup>
+<p align=center><sub>Lastly, I always hop on the game just to make skins for my own satisfaction and spend time with my beloved and friends. I don’t mind interacting but do keep in mind the chances of me replying are very low at times. I tend to join and leave the phone to do my thing. I constantly check the phone tho so I guess that’s fine hehehhehehheheh..</sup>
+</details>
  
