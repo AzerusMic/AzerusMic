@@ -6,7 +6,7 @@
        width="100" alt="views">
 
 <p align=center> 
-<img width="375" alt="Image" src="https://github.com/user-attachments/assets/16ae74e8-f1d1-4dc9-ad8d-12079e8ec068" />
+<img width="2075" alt="Image" src="https://github.com/user-attachments/assets/16ae74e8-f1d1-4dc9-ad8d-12079e8ec068" />
 
 
 <p align=center><details>
