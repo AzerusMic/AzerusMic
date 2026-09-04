@@ -9,7 +9,7 @@
 <img width="2075" alt="Image" src="https://github.com/user-attachments/assets/16ae74e8-f1d1-4dc9-ad8d-12079e8ec068" />
 
 
-<p align=center><details>
+<div align=center><details>
 
 <summary><sub><sup>🐑 just want to give a brief information about me…</sup></sub></summary>
   
